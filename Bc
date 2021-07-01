@@ -1,3 +1,3 @@
 #EXTM3U
-#EXTINF:1  , liv
-https://sonydai.akamaized.net/hls/live/2022316/DAI12ME/hdntl=exp=1625047085~acl=%2f*~id=d722dbfd9ab44f28b528843377959b55-1624960378742~data=hdntl~hmac=946145cb00a358d8f38738ae3a1ab695e29cb7084bb4a519b333bf4ec7604e9c/master_964.m3u8
+#EXTINF:1  , liv 1
+https://sonydai.akamaized.net/hls/live/2022316-b/DAI12ME/hdntl=exp=1625225946~acl=%2f*~id=f1c11390-e1ce-404d-a4ed-87a179a68f10~data=hdntl~hmac=d6b12f3605d078c28f32a7dc9a39e985a9ce4749946ce0ce6852f2fb20890260/master_3628.m3u8
