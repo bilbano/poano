@@ -1,3 +1,4 @@
 #EXTM3U
-#EXTINF:1  , mw
-http://pull-drzlive.daraz.com/peacock/35dcf3dc-762a-4296-a161-ddac733fdf29_liveng-480p-hp.m3u8?auth_key=1637313958-0-0-9b9bd2687d48c8d980ac92d9c29b8eba&flag=new_logic
+#EXTINF:1  , au
+http://103.231.107.34.bc.googleusercontent.com/live-stm-10/auth_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.SCR5hZE0SHNb8M9wwAP0QSjA7x8bRAGkVGgVCNpgxendgb9cuqwRVUP3gkikl0foqfUZE6RocKUDyrsgYBGJEqNaj97H_Q7X7N5hk5sBcQU
+
